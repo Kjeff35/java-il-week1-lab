@@ -92,3 +92,16 @@ Synchronized Block for Updating a Shared Counter
 ## concurrency-exercise-4
 Deadlock Example and Prevention
 
+## data-structure-exercise-1
+Implement a Balanced Binary Search Tree (AVL Tree)
+
+## data-structure-exercise-2
+Utilize a Heap for Task Scheduling
+
+## data-structure-exercise-3
+Build a Trie for Autocomplete Functionality
+
+## data-structure-exercise-4
+## data-structure-exercise-5
+## data-structure-exercise-6
+
