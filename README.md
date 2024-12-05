@@ -62,5 +62,33 @@ This project demonstrates a simple Java validation framework using functional pr
 3. Main:
 - The entry point for testing the validation. It demonstrates how to use the Validator class with various types of data and corresponding predicates.
 
+## oop-exercise-5
+A simple in-memory cache using ConcurrentHashMap to store key-value pairs with thread safety considerations.
 
+## oop-exercise-6
+Process a Collection using Stream API and Custom Comparator
+
+## exception-handling-exercise-1
+Handling Checked and Unchecked Exceptions
+
+## exception-handling-exercise-2
+Utilizing Nested Try-Catch Blocks
+
+## exception-handling-exercise-3
+Releasing Resources with finally Block
+
+## exception-handling-exercise-4
+Creating a Custom Exception
+
+## concurrency-exercise-1
+Implement a Thread Pool for Image Processing
+
+## concurrency-exercise-2
+Leverage ConcurrentHashMap for Thread-Safe Caching
+
+## concurrency-exercise-3
+Synchronized Block for Updating a Shared Counter
+
+## concurrency-exercise-4
+Deadlock Example and Prevention
 
